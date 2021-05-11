@@ -1,2 +1,3 @@
-# Wemini-bookstore
-This is a bookstore on Wemini
+# Bookstore-Weixin-MiniProgram
+
+This is a bookstore demo implemented by Weixin MiniProgram
